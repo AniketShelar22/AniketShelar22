@@ -13,7 +13,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/aniket-shelar-5b46b6298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-shelar-5b46b6298" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shelar_aniket_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shelar_aniket_c1" height="30" width="40" /></a>
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketshelar2212002@gmail.com) 
+
+ 
 </p>
+
 
  
 
