@@ -1,4 +1,19 @@
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h3 align="center">A passionate Software developer from India</h3>
 
+- 🔭 I’m currently working on [Online_Book_Store](https://onlinebooksheaven.netlify.app/dashboard/0)
+
+- 🌱 I’m currently learning **React,Angular**
+
+- 📫 How to reach me **aniketshelar2212002@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d8dNpmF6oniDQ_fIzL6qi5UCdrqj1sFH/view?usp=sharing](https://drive.google.com/file/d/1d8dNpmF6oniDQ_fIzL6qi5UCdrqj1sFH/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aniket-shelar-5b46b6298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-shelar-5b46b6298" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shelar_aniket_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shelar_aniket_c1" height="30" width="40" /></a>
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-shelar-5b46b6298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketshelar2212002@gmail.com) 
 
