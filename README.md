@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **React,Angular**
-
 - 📫 How to reach me **aniketshelar2212002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/191NnueINh5gDFqG4f0XCuLph76-IP9dG/view?usp=sharing](https://drive.google.com/file/d/191NnueINh5gDFqG4f0XCuLph76-IP9dG/view?usp=sharing)
